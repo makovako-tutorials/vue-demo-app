@@ -1,3 +1,7 @@
+# Intro
+
+This Angular project was created after following [this](https://www.youtube.com/watch?v=Wy9q22isx3U) tutorial and is saved on github just for archival purposes, to be a refernce for me in the future.
+
 # vue-demo-app
 
 ## Project setup
